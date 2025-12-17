@@ -1,1 +1,1 @@
- deep learning based approach using yolo https://drive.google.com/drive/folders/1NV6luUjGRTfk9iiwuo3OsuRMNRxHjuuE?usp=drive_link
+ deep learning based approach using yolo -    in this file i have uploaded the videos and the weigth of the body parts https://drive.google.com/drive/folders/1NV6luUjGRTfk9iiwuo3OsuRMNRxHjuuE?usp=drive_link
